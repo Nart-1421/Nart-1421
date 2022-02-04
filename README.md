@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nart-1421
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP,HTML,CSS,SQL
+- 👀 I’m interested in Programming 3D Designer
+- 🌱 I’m currently learning PHP,HTML,CSS,SQL,Blender,3Ds Max
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
